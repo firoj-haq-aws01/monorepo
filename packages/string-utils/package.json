@@ -1,0 +1,29 @@
+{
+  "name": "@nb/string-utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Firoj Haque <firoj.haq.aws01@gmail.com>",
+  "homepage": "https://github.com/firoj-haq-aws01/monorepo/tree/main/packages/string-utils#readme",
+  "license": "ISC",
+  "main": "lib/string-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firoj-haq-aws01/monorepo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/firoj-haq-aws01/monorepo/issues"
+  }
+}
