@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/firoj-haq-aws01/monorepo.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Firoj Haque",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/firoj-haq-aws01/monorepo/issues"
   },
   "homepage": "https://github.com/firoj-haq-aws01/monorepo#readme",
   "devDependencies": {
-    "lerna": "^5.1.4"
+    "lerna": "^5.1.4",
+    "typescript": "^4.7.4"
   }
 }

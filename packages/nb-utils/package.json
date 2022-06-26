@@ -1,0 +1,15 @@
+{
+  "name": "@nb/utils",
+  "version": "1.0.0",
+  "description": "Utility library",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc --build ./tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Firoj Haque",
+  "license": "MIT",
+  "dependencies": {
+    "@nb/logger": "^1.0.0"
+  }
+}
