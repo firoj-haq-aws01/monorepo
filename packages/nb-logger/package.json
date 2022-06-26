@@ -4,7 +4,7 @@
   "description": "Logger library",
   "main": "src/index.ts",
   "scripts": {
-    "build": "tsc --build ./tsconfig.json",
+    "build": "tsc --build ./tsconfig.json --verbose",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Firoj Haque",
