@@ -1,6 +1,6 @@
 {
   "name": "@nb/utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Utility library",
   "main": "src/index.ts",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "Firoj Haque",
   "license": "MIT",
   "dependencies": {
-    "@nb/logger": "^1.0.0"
+    "@nb/logger": "^1.0.1"
   }
 }
